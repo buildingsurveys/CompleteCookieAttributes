@@ -1,0 +1,2 @@
+# CompleteCookieAttributes
+LS CompleteCookieAttributes Plugin
